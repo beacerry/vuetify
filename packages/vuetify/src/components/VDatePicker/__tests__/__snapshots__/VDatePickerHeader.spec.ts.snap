@@ -16,7 +16,7 @@ exports[`VDatePickerHeader.ts should render component and match snapshot 1`] = `
   <div class="v-date-picker-header__value">
     <div class="accent--text">
       <button type="button">
-        November 2005
+        2005-11
       </button>
     </div>
   </div>
@@ -50,7 +50,7 @@ exports[`VDatePickerHeader.ts should render component in RTL mode and match snap
   <div class="v-date-picker-header__value">
     <div class="accent--text">
       <button type="button">
-        November 2005
+        2005-11
       </button>
     </div>
   </div>
@@ -121,7 +121,7 @@ exports[`VDatePickerHeader.ts should render disabled component and match snapsho
   <div class="v-date-picker-header__value v-date-picker-header__value--disabled">
     <div>
       <button type="button">
-        November 2005
+        2005-11
       </button>
     </div>
   </div>
@@ -156,7 +156,7 @@ exports[`VDatePickerHeader.ts should render readonly component and match snapsho
   <div class="v-date-picker-header__value">
     <div class="accent--text">
       <button type="button">
-        November 2005
+        2005-11
       </button>
     </div>
   </div>
